@@ -14,9 +14,3 @@ For Starting the Server
 
 To access the app
 localhost:3000/
-
-
-
-
-
-np
